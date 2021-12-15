@@ -1,1 +1,1 @@
-# jQuery-1
+# jQuery-1 https://bdsagarkhan.github.io/jQuery-1/
